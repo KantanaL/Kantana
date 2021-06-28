@@ -1,0 +1,13 @@
+name: kantanafinal
+title: kantanafinal
+username:
+account: kantana
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4327062
+bundleId: 4762844
+url: https://kantana.shinyapps.io/kantanafinal/
+when: 1624845040.14502
+lastSyncTime: 1624845040.14502
+asMultiple: FALSE
+asStatic: FALSE
